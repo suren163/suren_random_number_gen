@@ -1,0 +1,20 @@
+{
+  "name": "suren_random_number_gen",
+  "version": "1.0.0",
+  "description": "Random number generator ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suren163/suren_random_number_gen.git"
+  },
+  "author": "surendhar MCA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suren163/suren_random_number_gen/issues"
+  },
+  "homepage": "https://github.com/suren163/suren_random_number_gen#readme"
+}
